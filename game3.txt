@@ -2,5 +2,5 @@ Ema ima 0 pobjeda i 0 poraza!
 Tina ima 0 pobjeda i 0 poraza!
 
 . . .
-. x .
+. x O
 O . .
