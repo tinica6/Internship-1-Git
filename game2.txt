@@ -3,4 +3,4 @@ Tina ima 0 pobjeda i 0 poraza!
 
 O . x
 O . .
-. . .
+. . x
