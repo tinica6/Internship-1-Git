@@ -1,6 +1,9 @@
-Ema ima 0 pobjeda i 2 poraza!
-Tina ima 2 pobjeda i 0 poraza!
+Ema ima 1 pobjeda i 2 poraza!
+Tina ima 2 pobjeda i 1 poraza!
 
 O . x
 O . .
 O . x
+
+
+ 
