@@ -1,6 +1,11 @@
 Ema ima 0 pobjeda i 0 poraza!
 Tina ima 0 pobjeda i 0 poraza!
 
+<<<<<<< HEAD
 O . x
 . . .
+=======
+O . .
+O . .
+>>>>>>> 12768f2 (second move by Tina)
 . . .
